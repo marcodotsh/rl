@@ -1,2 +1,1 @@
-# rl
-Progetto di Reti Logiche
+# Progetto di Reti Logiche
